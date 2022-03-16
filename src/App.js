@@ -59,6 +59,8 @@ import Main from './components/Main';
 import Basket from './components/Basket';
 import data from './data';
 import { useState } from 'react';
+import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
+
 function App() {
   const { products } = data;
   const [cartItems, setCartItems] = useState([]);

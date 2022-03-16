@@ -161,7 +161,34 @@ button.badge {
   color: #ffffff;
   width: 1.5rem;
 }
+/* .img-size
+{
+ height: 50px;
+ width: 100px;
+  
+} */
+.carthead
+{
+text-decoration: none;
+text-align: center;
+}
+.signhead
+{
+  text-decoration: none;
+  text-align: center;
 
+}
+.heading
+{
+ text-align: center; 
+ text-decoration: none;
+}
+.producthead
+{
+  text-align: center;
+  /* padding: 10px; */
+  margin-top: 15px;
+}
  /* @media only screen and (max-width: 480px) 
  {
   .block
